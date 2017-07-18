@@ -1,0 +1,20 @@
+{
+  "name": "polymerwebpack",
+  "description": "",
+  "main": "app.js",
+  "authors": [
+    "MarkJamesHoward <markjameshoward@hotmail.co.uk>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "paper-button": "polymerelements/paper-button#^2.0.0"
+  }
+}
